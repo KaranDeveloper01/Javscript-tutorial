@@ -1,2 +1,2 @@
-console.log("Hi` karan");
-console.log(3+6);
+console.log("Hi` karan")
+console.log(7+7);

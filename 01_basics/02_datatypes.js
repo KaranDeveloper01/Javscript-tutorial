@@ -11,6 +11,7 @@ let  loggedIn = false
 // 3.boolean=true/fase
 // 4.null
 // 5.undefined
+// 6.symbol
 
 // object
 

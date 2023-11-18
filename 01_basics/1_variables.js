@@ -8,4 +8,4 @@ const userId = 10001 ; //(userId = this type of naming is also called camel-casi
 let userEmail = 'xyz@gmail.com';
 var userCity = "Jaipur"
 
-console.table([userId,userEmail,userCity]);
+console.table([userId,userEmail,userCity]); 
